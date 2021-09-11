@@ -325,7 +325,7 @@
      background: transparent;
 }
  .slider_section {
-     background: #212020;
+     background: #e8e8e8;
      min-height: 100vh;
      padding-top: 93px;
 }
@@ -357,13 +357,13 @@
  .slider_cont h3 {
      font-size: 70px;
      font-weight: 600;
-     color: #fff;
+     color: #000;
      line-height: 70px;
      letter-spacing: -2px;
 }
  .slider_cont p {
      font-size: 18px;
-     color: #999;
+     color: #000;
      line-height: normal;
      font-weight: 300;
      margin-top: 15px;
