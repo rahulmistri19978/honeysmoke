@@ -207,6 +207,9 @@
      .logo {
         text-align: center;
          display: block;
+         max-width: 80%;
+         padding-left: 17.5%;
+         align-content: center;
     }
      .right_header_info ul {
          float: inherit;

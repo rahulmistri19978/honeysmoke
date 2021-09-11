@@ -410,7 +410,7 @@
      color: #f8c90d !important;
 }
 .resip_section {
-    background: #212020;
+    background: #ffffff;
     margin-top: 0;
     padding: 60px 0px 50px 0px;
     border-top: solid rgba(255,255,255,.1) 1px;
@@ -420,7 +420,7 @@
     font-size: 45px;
      font-weight: 500;
      line-height: 40px;
-     color: #fff;
+     color: #000;
      padding-bottom: 38px;
 }
  .product_blog_cont {
@@ -428,13 +428,13 @@
      padding-top: 20px;
 }
  .product_blog_cont h3 {
-     color: #fff;
+     color: #000;
      font-size: 22px;
      font-weight: 400;
      text-align: center;
 }
  .product_blog_cont h4 {
-     color: #fff;
+     color: #000;
      font-size: 18px;
 }
  .bgbg {
