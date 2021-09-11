@@ -257,9 +257,9 @@
 }
 /*--------------------------------------------------------------------- header ---------------------------------------------------------------------*/
  header {
-     min-height: 90px;
-     background: #212020;
-     padding: 15px 0;
+     min-height: 50px;
+     background: #ffffff;
+     padding: 1px 0;
      position: fixed;
      width: 100%;
      top: 0;
